@@ -1,0 +1,17 @@
+package com.duy.jdbc;
+
+public class TestJdbc {
+
+	public static void main(String[] args) {
+
+		String jdbcUrl = "jdbc:mysql://localhost:3306/hb_student_racker?useSSL=false";
+		try {
+			
+		}
+		catch (Exception exc) {
+			exc.printStackTrace();
+		}
+
+	}
+
+}

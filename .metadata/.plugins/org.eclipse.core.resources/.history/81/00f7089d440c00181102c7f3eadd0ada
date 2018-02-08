@@ -1,0 +1,7 @@
+package com.duy.hibernate.demo.entity;
+
+@Entity
+@Table(name="review")
+public class Review {
+
+}

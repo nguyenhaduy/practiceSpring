@@ -1,0 +1,6 @@
+package com.duy.hibernate.demo.entity;
+
+public class InstructorDetail {
+
+	// annotate the class as an entity and map to db table
+}

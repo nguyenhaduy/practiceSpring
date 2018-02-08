@@ -1,0 +1,8 @@
+package com.duy.springdemo.mvc;
+
+@Controller
+@RequestMapping("/customer")
+public class CustomerController {
+
+	
+}

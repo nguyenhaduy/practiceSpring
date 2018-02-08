@@ -1,0 +1,6 @@
+package com.duy.springdemo.dao;
+
+public interface CustomerDAO {
+
+	public List<Customer> getCustomers();
+}
