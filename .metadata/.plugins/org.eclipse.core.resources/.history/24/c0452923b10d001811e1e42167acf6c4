@@ -1,0 +1,16 @@
+package com.duy.springdemo.service;
+
+import java.util.List;
+
+import com.duy.springdemo.dao.CustomerDAO;
+import com.duy.springdemo.entity.Customer;
+
+public class CustomerServiceImpl implements CustomerService, CustomerDAO {
+
+	@Override
+	public List<Customer> getCustomers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

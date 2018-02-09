@@ -1,0 +1,7 @@
+package com.duy.springdemo.service;
+
+public interface CustomerService {
+
+	public List<Custoker> getCustomers();
+	
+}
